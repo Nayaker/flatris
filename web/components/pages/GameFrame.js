@@ -35,7 +35,7 @@ export default class GameFrame extends Component<Props> {
             bottom: 0;
             right: 0;
             left: calc(100% / 16 * 10);
-            background: #fff;
+            background: #f1f1f1;
           }
         `}</style>
       </GameContainer>
